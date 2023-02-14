@@ -8,7 +8,6 @@ const MainHeader = ({ data }) => {
     navigate("/update");
   };
 
-  console.log(data);
   return (
     <div className="grid grid-cols-2 relative">
       <div className="bg-gradient-to-r from-[#232197] to-[#E85BFF] h-[968.37px]">
